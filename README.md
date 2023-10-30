@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NICGATO
 - 👀 I’m interested in ...codind and programing
 - 🌱 I’m currently learning ...piscine
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Write a function QuadA that prints a valid rectangle with a given width of x and height of y.
 - 📫 How to reach me ...
 
 <!---
